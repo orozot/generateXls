@@ -1,8 +1,8 @@
 {
-  "sprint": "5",
+  "sprint": "6",
   "member": {
     "Ren Zhitong": {
-      "Monday": "4",
+      "Monday": "8",
       "Tuesday": "8",
       "Wednesday": "8",
       "Thursday": "8",
@@ -12,7 +12,7 @@
     },
     "Wang Dongxue": {
       "Monday": "4",
-      "Tuesday": "4",
+      "Tuesday": "0",
       "Wednesday": "4",
       "Thursday": "4",
       "Friday": "4",
@@ -25,10 +25,10 @@
       "Wednesday": "8",
       "Thursday": "8",
       "Friday": "8",
-      "Saturday": "0",
+      "Saturday": "4",
       "Sunday": "0"
     },
-    "Chen Pei": {
+    "Liu Yue": {
       "Monday": "8",
       "Tuesday": "8",
       "Wednesday": "8",
