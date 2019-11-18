@@ -1,38 +1,38 @@
 {
-  "sprint": "6",
+  "sprint": "7",
   "member": {
     "Ren Zhitong": {
       "Monday": "8",
       "Tuesday": "8",
       "Wednesday": "8",
       "Thursday": "8",
-      "Friday": "16",
-      "Saturday": "4",
+      "Friday": "8",
+      "Saturday": "0",
       "Sunday": "0"
     },
     "Wang Dongxue": {
       "Monday": "4",
       "Tuesday": "4",
       "Wednesday": "4",
-      "Thursday": "4",
-      "Friday": "4",
+      "Thursday": "2",
+      "Friday": "0",
       "Saturday": "0",
       "Sunday": "0"
     },
     "Cao Xiaoqi": {
       "Monday": "8",
       "Tuesday": "8",
-      "Wednesday": "4",
+      "Wednesday": "8",
       "Thursday": "8",
-      "Friday": "16",
-      "Saturday": "4",
+      "Friday": "8",
+      "Saturday": "0",
       "Sunday": "0"
     },
     "Liu Yue": {
       "Monday": "8",
       "Tuesday": "8",
       "Wednesday": "8",
-      "Thursday": "8",
+      "Thursday": "0",
       "Friday": "8",
       "Saturday": "0",
       "Sunday": "0"
