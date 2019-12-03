@@ -64,7 +64,7 @@ function changeWorkHour(newSheet){
                 }
                 totalHours = totalHours + Number(memberObj[i]);
                 newSheet.getCell(workHourIndex).value = memberObj[i];
-                newSheet.getCell("R8").value = totalHours;
+                newSheet.getCell("R9").value = totalHours;
             }
         }
     });
