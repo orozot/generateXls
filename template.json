@@ -13,18 +13,18 @@
     "Wang Dongxue": {
       "Monday": "4",
       "Tuesday": "4",
-      "Wednesday": "0",
-      "Thursday": "0",
+      "Wednesday": "4",
+      "Thursday": "2",
       "Friday": "4",
       "Saturday": "0",
       "Sunday": "0"
     },
     "Cao Xiaoqi": {
-      "Monday": "8",
-      "Tuesday": "8",
+      "Monday": "0",
+      "Tuesday": "0",
       "Wednesday": "8",
-      "Thursday": "0",
-      "Friday": "0",
+      "Thursday": "8",
+      "Friday": "8",
       "Saturday": "0",
       "Sunday": "0"
     },
@@ -42,7 +42,7 @@
       "Tuesday": "8",
       "Wednesday": "8",
       "Thursday": "8",
-      "Friday": "0",
+      "Friday": "8",
       "Saturday": "0",
       "Sunday": "0"
     }
