@@ -47,27 +47,44 @@ let workBriefTemplate = function(role, sprint){
 
 
 function changeWorkHour(newSheet){
-    const nameList = newSheet.getColumn("A").values;
     let totalHours = 0;
-    nameList.forEach((item, index) => {
-        let memberObj = template.member[item];
-        if(memberObj !== undefined) {
-            for(let i in memberObj) {
-                const workBriefIndex = workDetailMap[i]["Workload Brief"] + index;
-                const workHourIndex = workDetailMap[i]["Hours"] + index;
-                if(memberObj[i] !== "0") {
-                    const role = newSheet.getCell(`B${index}`).value;
-                    workBriefTemplate(role, template.sprint);
-                    newSheet.getCell(workBriefIndex).value = workBriefTemplate(role, template.sprint);
-                }else{
-                    newSheet.getCell(workBriefIndex).value = "Break";
-                }
-                totalHours = totalHours + Number(memberObj[i]);
-                newSheet.getCell(workHourIndex).value = memberObj[i];
-                newSheet.getCell("R9").value = totalHours;
-            }
+    let memberList = Object.keys(template.member);
+    memberList.forEach((name,index) => {
+        let _index = index + 5;
+
+        if(newSheet.getCell(`A${_index}`).value === "Delivery brief summary"){
+            newSheet.spliceRows(_index,0,[]);
+            newSheet.getCell(`B${_index+1}`).value = null;
+            newSheet.getCell(`C${_index+1}`).value = null;
+
+            newSheet.getRow(5).eachCell((cell)=>{
+                let newRowCellIndex = cell._address.split("")[0]+_index;
+                newSheet.getRow(_index).height = newSheet.getRow(5).height;
+                newSheet.getCell(newRowCellIndex).style = cell.style;
+            })
         }
+
+
+        let memberData = template.member[name];
+        const workData = memberData.workData;
+        newSheet.getCell(`A${_index}`).value = name;
+        newSheet.getCell(`B${_index}`).value = memberData.role;
+        for(let i in workData) {
+            const workBriefIndex = workDetailMap[i]["Workload Brief"] + _index;
+            const workHourIndex = workDetailMap[i]["Hours"] + _index;
+            if(workData[i] !== "0") {
+                const role = memberData.role;
+                workBriefTemplate(role, template.sprint);
+                newSheet.getCell(workBriefIndex).value = workBriefTemplate(role, template.sprint);
+            }else{
+                newSheet.getCell(workBriefIndex).value = "Break";
+            }
+            totalHours = totalHours + Number(workData[i]);
+            newSheet.getCell(workHourIndex).value = workData[i];
+        }
+
     });
+    newSheet.getCell("R9").value = totalHours;
     return newSheet;
 }
 

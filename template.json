@@ -2,49 +2,64 @@
   "sprint": "8",
   "member": {
     "Ren Zhitong": {
-      "Monday": "8",
-      "Tuesday": "8",
-      "Wednesday": "8",
-      "Thursday": "8",
-      "Friday": "8",
-      "Saturday": "0",
-      "Sunday": "0"
+      "role": "UI Dev",
+      "workData": {
+        "Monday": "8",
+        "Tuesday": "8",
+        "Wednesday": "8",
+        "Thursday": "8",
+        "Friday": "8",
+        "Saturday": "0",
+        "Sunday": "0"
+      }
     },
     "Wang Dongxue": {
-      "Monday": "4",
-      "Tuesday": "4",
-      "Wednesday": "4",
-      "Thursday": "2",
-      "Friday": "4",
-      "Saturday": "0",
-      "Sunday": "0"
+      "role": "BA",
+      "workData": {
+        "Monday": "4",
+        "Tuesday": "4",
+        "Wednesday": "4",
+        "Thursday": "2",
+        "Friday": "4",
+        "Saturday": "0",
+        "Sunday": "0"
+      }
     },
     "Cao Xiaoqi": {
-      "Monday": "0",
-      "Tuesday": "0",
-      "Wednesday": "8",
-      "Thursday": "8",
-      "Friday": "8",
-      "Saturday": "0",
-      "Sunday": "0"
+      "role": "Dev",
+      "workData": {
+        "Monday": "0",
+        "Tuesday": "0",
+        "Wednesday": "8",
+        "Thursday": "8",
+        "Friday": "8",
+        "Saturday": "0",
+        "Sunday": "0"
+      }
     },
     "Liu Yue": {
-      "Monday": "8",
-      "Tuesday": "8",
-      "Wednesday": "8",
-      "Thursday": "8",
-      "Friday": "8",
-      "Saturday": "0",
-      "Sunday": "0"
+      "role": "QA",
+      "workData": {
+        "Monday": "8",
+        "Tuesday": "8",
+        "Wednesday": "8",
+        "Thursday": "8",
+        "Friday": "8",
+        "Saturday": "0",
+        "Sunday": "0"
+      }
     },
     "Huang Xinyu": {
-      "Monday": "8",
-      "Tuesday": "8",
-      "Wednesday": "8",
-      "Thursday": "8",
-      "Friday": "8",
-      "Saturday": "0",
-      "Sunday": "0"
+      "role": "BA",
+      "workData": {
+        "Monday": "8",
+        "Tuesday": "8",
+        "Wednesday": "8",
+        "Thursday": "8",
+        "Friday": "8",
+        "Saturday": "0",
+        "Sunday": "0"
+      }
     }
   }
 }
