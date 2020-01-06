@@ -6,7 +6,7 @@
       "workData": {
         "Monday": "8",
         "Tuesday": "8",
-        "Wednesday": "8",
+        "Wednesday": "0",
         "Thursday": "8",
         "Friday": "8",
         "Saturday": "0",
@@ -16,11 +16,11 @@
     "Wang Dongxue": {
       "role": "BA",
       "workData": {
-        "Monday": "4",
-        "Tuesday": "4",
-        "Wednesday": "4",
+        "Monday": "0",
+        "Tuesday": "0",
+        "Wednesday": "0",
         "Thursday": "4",
-        "Friday": "0",
+        "Friday": "4",
         "Saturday": "0",
         "Sunday": "0"
       }
@@ -30,7 +30,7 @@
       "workData": {
         "Monday": "8",
         "Tuesday": "8",
-        "Wednesday": "8",
+        "Wednesday": "0",
         "Thursday": "8",
         "Friday": "8",
         "Saturday": "0",
@@ -40,9 +40,9 @@
     "Liu Yue": {
       "role": "QA",
       "workData": {
-        "Monday": "8",
+        "Monday": "0",
         "Tuesday": "0",
-        "Wednesday": "8",
+        "Wednesday": "0",
         "Thursday": "8",
         "Friday": "8",
         "Saturday": "0",
@@ -52,11 +52,11 @@
     "Huang Xinyu": {
       "role": "BA",
       "workData": {
-        "Monday": "8",
-        "Tuesday": "8",
-        "Wednesday": "8",
-        "Thursday": "0",
-        "Friday": "0",
+        "Monday": "0",
+        "Tuesday": "0",
+        "Wednesday": "0",
+        "Thursday": "8",
+        "Friday": "8",
         "Saturday": "0",
         "Sunday": "0"
       }
