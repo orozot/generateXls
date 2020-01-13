@@ -1,12 +1,12 @@
 {
-  "sprint": "10",
+  "sprint": "11",
   "member": {
     "Ren Zhitong": {
       "role": "UI Dev",
       "workData": {
         "Monday": "8",
         "Tuesday": "8",
-        "Wednesday": "0",
+        "Wednesday": "8",
         "Thursday": "8",
         "Friday": "8",
         "Saturday": "0",
@@ -16,9 +16,9 @@
     "Wang Dongxue": {
       "role": "BA",
       "workData": {
-        "Monday": "0",
-        "Tuesday": "0",
-        "Wednesday": "0",
+        "Monday": "4",
+        "Tuesday": "2",
+        "Wednesday": "4",
         "Thursday": "4",
         "Friday": "4",
         "Saturday": "0",
@@ -28,11 +28,11 @@
     "Cao Xiaoqi": {
       "role": "Dev",
       "workData": {
-        "Monday": "8",
-        "Tuesday": "8",
+        "Monday": "0",
+        "Tuesday": "0",
         "Wednesday": "0",
-        "Thursday": "8",
-        "Friday": "4",
+        "Thursday": "0",
+        "Friday": "0",
         "Saturday": "0",
         "Sunday": "0"
       }
@@ -40,9 +40,9 @@
     "Liu Yue": {
       "role": "QA",
       "workData": {
-        "Monday": "0",
-        "Tuesday": "0",
-        "Wednesday": "0",
+        "Monday": "8",
+        "Tuesday": "8",
+        "Wednesday": "8",
         "Thursday": "8",
         "Friday": "8",
         "Saturday": "0",
@@ -52,9 +52,9 @@
     "Huang Xinyu": {
       "role": "BA",
       "workData": {
-        "Monday": "0",
-        "Tuesday": "0",
-        "Wednesday": "0",
+        "Monday": "8",
+        "Tuesday": "8",
+        "Wednesday": "8",
         "Thursday": "8",
         "Friday": "8",
         "Saturday": "0",
