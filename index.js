@@ -49,6 +49,18 @@ let workBriefTemplate = function(role, sprint){
 function changeWorkHour(newSheet){
     let totalHours = 0;
     let memberList = Object.keys(template.member);
+    let beforeSheetMemberNumber = 0;
+    newSheet.eachRow({ includeEmpty: false }, function(row, rowNumber) {
+        if(row.getCell("A").value === "Delivery brief summary") {
+            beforeSheetMemberNumber = rowNumber - 5;
+        }
+    });
+
+    if(memberList.length < beforeSheetMemberNumber) {
+        newSheet.spliceRows(5,beforeSheetMemberNumber - memberList.length);
+        newSheet.getCell(`B${memberList.length+5}`).value = null;
+        newSheet.getCell(`C${memberList.length+5}`).value = null;
+    }
     memberList.forEach((name,index) => {
         let _index = index + 5;
 
@@ -84,7 +96,7 @@ function changeWorkHour(newSheet){
         }
 
     });
-    newSheet.getCell("R9").value = totalHours;
+    newSheet.getCell(`R${memberList.length + 4}`).value = totalHours;
     return newSheet;
 }
 

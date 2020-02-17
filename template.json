@@ -13,18 +13,6 @@
         "Sunday": "0"
       }
     },
-    "Wang Dongxue": {
-      "role": "BA",
-      "workData": {
-        "Monday": "4",
-        "Tuesday": "4",
-        "Wednesday": "4",
-        "Thursday": "4",
-        "Friday": "4",
-        "Saturday": "0",
-        "Sunday": "0"
-      }
-    },
     "Cao Xiaoqi": {
       "role": "Dev",
       "workData": {
@@ -43,7 +31,7 @@
         "Monday": "8",
         "Tuesday": "8",
         "Wednesday": "8",
-        "Thursday": "0",
+        "Thursday": "8",
         "Friday": "8",
         "Saturday": "0",
         "Sunday": "0"
