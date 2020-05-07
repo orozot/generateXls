@@ -1,16 +1,16 @@
 {
-  "sprint": "17",
+  "sprint": "18",
   "member": {
     "Ren Zhitong": {
       "role": "UI Dev",
       "workData": {
         "Monday": "8",
         "Tuesday": "8",
-        "Wednesday": "8",
+        "Wednesday": "4",
         "Thursday": "8",
-        "Friday": "8",
+        "Friday": "0",
         "Saturday": "0",
-        "Sunday": "8"
+        "Sunday": "0"
       }
     },
     "Cao Xiaoqi": {
@@ -20,9 +20,9 @@
         "Tuesday": "8",
         "Wednesday": "8",
         "Thursday": "8",
-        "Friday": "8",
+        "Friday": "0",
         "Saturday": "0",
-        "Sunday": "8"
+        "Sunday": "0"
       }
     },
     "Liu Yue": {
@@ -32,9 +32,9 @@
         "Tuesday": "8",
         "Wednesday": "8",
         "Thursday": "8",
-        "Friday": "8",
+        "Friday": "0",
         "Saturday": "0",
-        "Sunday": "8"
+        "Sunday": "0"
       }
     },
     "Huang Xinyu": {
@@ -44,9 +44,9 @@
         "Tuesday": "8",
         "Wednesday": "8",
         "Thursday": "8",
-        "Friday": "8",
+        "Friday": "0",
         "Saturday": "0",
-        "Sunday": "8"
+        "Sunday": "0"
       }
     }
   }
