@@ -4,44 +4,44 @@
     "Ren Zhitong": {
       "role": "UI Dev",
       "workData": {
-        "Monday": "8",
-        "Tuesday": "8",
-        "Wednesday": "4",
+        "Monday": "0",
+        "Tuesday": "0",
+        "Wednesday": "8",
         "Thursday": "8",
-        "Friday": "0",
-        "Saturday": "0",
+        "Friday": "8",
+        "Saturday": "8",
         "Sunday": "0"
       }
     },
     "Cao Xiaoqi": {
       "role": "Dev",
       "workData": {
-        "Monday": "8",
-        "Tuesday": "8",
+        "Monday": "0",
+        "Tuesday": "0",
         "Wednesday": "8",
         "Thursday": "8",
-        "Friday": "0",
-        "Saturday": "0",
+        "Friday": "8",
+        "Saturday": "8",
         "Sunday": "0"
       }
     },
     "Liu Yue": {
       "role": "QA",
       "workData": {
-        "Monday": "8",
-        "Tuesday": "8",
+        "Monday": "0",
+        "Tuesday": "0",
         "Wednesday": "8",
         "Thursday": "8",
-        "Friday": "0",
-        "Saturday": "0",
+        "Friday": "8",
+        "Saturday": "8",
         "Sunday": "0"
       }
     },
     "Huang Xinyu": {
       "role": "BA",
       "workData": {
-        "Monday": "8",
-        "Tuesday": "8",
+        "Monday": "0",
+        "Tuesday": "0",
         "Wednesday": "8",
         "Thursday": "8",
         "Friday": "0",
