@@ -1,5 +1,5 @@
 {
-  "sprint": "19",
+  "sprint": "20",
   "member": {
     "Ren Zhitong": {
       "role": "UI Dev",
@@ -32,7 +32,7 @@
         "Tuesday": "8",
         "Wednesday": "8",
         "Thursday": "8",
-        "Friday": "8",
+        "Friday": "0",
         "Saturday": "0",
         "Sunday": "0"
       }
