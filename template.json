@@ -7,10 +7,10 @@
         "Monday": "8",
         "Tuesday": "8",
         "Wednesday": "8",
-        "Thursday": "0",
-        "Friday": "0",
+        "Thursday": "8",
+        "Friday": "8",
         "Saturday": "0",
-        "Sunday": "8"
+        "Sunday": "0"
       }
     },
     "Cao Xiaoqi": {
@@ -19,10 +19,10 @@
         "Monday": "8",
         "Tuesday": "8",
         "Wednesday": "8",
-        "Thursday": "0",
-        "Friday": "0",
+        "Thursday": "8",
+        "Friday": "8",
         "Saturday": "0",
-        "Sunday": "8"
+        "Sunday": "0"
       }
     },
     "Liu Yue": {
@@ -31,10 +31,10 @@
         "Monday": "8",
         "Tuesday": "8",
         "Wednesday": "8",
-        "Thursday": "0",
-        "Friday": "0",
+        "Thursday": "8",
+        "Friday": "8",
         "Saturday": "0",
-        "Sunday": "8"
+        "Sunday": "0"
       }
     },
     "Huang Xinyu": {
@@ -43,10 +43,10 @@
         "Monday": "8",
         "Tuesday": "8",
         "Wednesday": "8",
-        "Thursday": "0",
+        "Thursday": "8",
         "Friday": "0",
         "Saturday": "0",
-        "Sunday": "8"
+        "Sunday": "0"
       }
     }
   }
