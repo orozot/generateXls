@@ -1,5 +1,5 @@
 {
-  "sprint": "22",
+  "sprint": "23",
   "member": {
     "Ren Zhitong": {
       "role": "UI Dev",
@@ -25,7 +25,7 @@
         "Sunday": "0"
       }
     },
-    "Liu Yue": {
+    "Guo XuePei": {
       "role": "QA",
       "workData": {
         "Monday": "8",
@@ -44,7 +44,7 @@
         "Tuesday": "8",
         "Wednesday": "8",
         "Thursday": "8",
-        "Friday": "0",
+        "Friday": "8",
         "Saturday": "0",
         "Sunday": "0"
       }
