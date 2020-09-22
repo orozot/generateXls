@@ -1,13 +1,13 @@
 {
-  "sprint": "27",
+  "sprint": "28",
   "member": {
     "Ren Zhitong": {
       "role": "UI Dev",
       "workData": {
         "Monday": "8",
         "Tuesday": "8",
-        "Wednesday": "8",
-        "Thursday": "8",
+        "Wednesday": "0",
+        "Thursday": "0",
         "Friday": "8",
         "Saturday": "0",
         "Sunday": "0"
