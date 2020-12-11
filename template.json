@@ -5,7 +5,7 @@
       "role": "UI Dev",
       "workData": {
         "Monday": "8",
-        "Tuesday": "4",
+        "Tuesday": "8",
         "Wednesday": "8",
         "Thursday": "8",
         "Friday": "8",
@@ -18,8 +18,8 @@
       "workData": {
         "Monday": "8",
         "Tuesday": "8",
-        "Wednesday": "0",
-        "Thursday": "0",
+        "Wednesday": "8",
+        "Thursday": "4",
         "Friday": "8",
         "Saturday": "0",
         "Sunday": "0"
