@@ -1,5 +1,5 @@
 {
-  "sprint": "34",
+  "sprint": "35",
   "member": {
     "Ren Zhitong": {
       "role": "UI Dev",
@@ -8,7 +8,7 @@
         "Tuesday": "8",
         "Wednesday": "8",
         "Thursday": "8",
-        "Friday": "8",
+        "Friday": "0",
         "Saturday": "0",
         "Sunday": "0"
       }
@@ -20,7 +20,7 @@
         "Tuesday": "8",
         "Wednesday": "8",
         "Thursday": "8",
-        "Friday": "8",
+        "Friday": "0",
         "Saturday": "0",
         "Sunday": "0"
       }
@@ -28,11 +28,11 @@
     "Guo XuePei": {
       "role": "QA",
       "workData": {
-        "Monday": "4",
+        "Monday": "8",
         "Tuesday": "8",
         "Wednesday": "8",
         "Thursday": "8",
-        "Friday": "8",
+        "Friday": "0",
         "Saturday": "0",
         "Sunday": "0"
       }
