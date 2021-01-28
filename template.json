@@ -1,20 +1,8 @@
 {
-  "sprint": "36",
+  "sprint": "37",
   "member": {
     "Ren Zhitong": {
       "role": "UI Dev",
-      "workData": {
-        "Monday": "8",
-        "Tuesday": "8",
-        "Wednesday": "8",
-        "Thursday": "8",
-        "Friday": "8",
-        "Saturday": "0",
-        "Sunday": "0"
-      }
-    },
-    "Cao Xiaoqi": {
-      "role": "Dev",
       "workData": {
         "Monday": "8",
         "Tuesday": "8",
